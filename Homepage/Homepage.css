@@ -1,0 +1,87 @@
+@font-face {
+  font-family: Roboto;
+  src: <link rel= "preconnect" href= "https://fonts.googleapis.com" > <link rel=
+    "preconnect" href= "https://fonts.gstatic.com" crossorigin> <link href=
+    "https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel=
+    "stylesheet" > url();
+}
+
+body {
+  background-color: #cdedff;
+}
+
+h1 {
+  color: #cdedff;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.headerbar {
+  padding: 2em 2em 2em 2em;
+  border-style: solid;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  background-color: #28698f;
+}
+
+.box-border {
+  border-style: solid;
+  border-color: #dba153;
+  border-width: 8px;
+  border-radius: 10px;
+  margin-bottom: 5em;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+.buttonstyle {
+  background-color: #8f5d1a;
+  color: #cdedff;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+}
+.box1 {
+  border: solid;
+  width: 5em;
+  height: 1em;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 1em 1em 1em 1em;
+}
+.box2 {
+  border: solid;
+  width: 5em;
+  height: 1em;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 1em 1em 1em 1em;
+}
+.box3 {
+  border: solid;
+  width: 5em;
+  height: 1em;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 1em 1em 1em 1em;
+}
+.box4 {
+  border: solid;
+  width: 5em;
+  height: 1em;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  margin: 1em 1em 1em 1em;
+}
