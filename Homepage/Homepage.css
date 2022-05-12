@@ -1,9 +1,9 @@
 @font-face {
   font-family: Roboto;
-  src: <link rel= "preconnect" href= "https://fonts.googleapis.com" > <link rel=
-    "preconnect" href= "https://fonts.gstatic.com" crossorigin> <link href=
-    "https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel=
-    "stylesheet" > url();
+  src: <link rel= 'preconnect' href= 'https://fonts.googleapis.com' > <link rel=
+    'preconnect' href= 'https://fonts.gstatic.com' crossorigin> <link href=
+    'https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap' rel=
+    'stylesheet' > url();
 }
 
 body {
@@ -12,8 +12,8 @@ body {
 
 h1 {
   color: #cdedff;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .headerbar {
   padding: 2em 2em 2em 2em;
