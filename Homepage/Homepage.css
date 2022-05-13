@@ -145,6 +145,8 @@ h1 {
   justify-content: center;
   padding-left: 1em;
   padding-right: 1em;
+  color:var(--beige);
+  border-color:var(--black);
 
 }
 /*-------------------------------------------------------------IconsStyle*/
@@ -155,3 +157,23 @@ left:23em;
 top:12em;
 color: var(--darkturquoise);
 }
+
+.navbar {
+  border:solid;
+  width: 26em;
+  height: 2em;
+  background-color: var(--darkturquoise);
+  display:flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+
+.FooterIcons {
+  height: 2em;
+  width: 2em;
+  display: flex;
+  justify-content: center;
+  color: var(--beige);
+}
+
